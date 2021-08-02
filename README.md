@@ -1,6 +1,8 @@
 # peixonautadoces_
 Projeto criado a partir do NLW6 da Rocketseat
 
+https://nicolemachado.github.io/peixonautadoces_/
+
 Inicio/Home
 
 ![peixo1](https://user-images.githubusercontent.com/85703276/125710374-1abb459b-8e96-4da3-9625-8099975dc2af.jpeg)
