@@ -30,7 +30,7 @@ img {
   --title-color: hsl(0, 0%, 0%);
   --text-color: hsl(26, 56%, 8%);
   --text-color-light: rgb(29, 14, 7);
-  --body-color: hsl(23, 48%, 67%);
+  --body-color: hsl(23, 75%, 81%);
 
   /*fonts*/
   --title-font-size: 1.875rem;
@@ -283,8 +283,9 @@ opacity: 1;
   margin-right: 1rem;
   text-align: center;
 }
-#home .text h1 {
+#home .text h2 {
   margin-bottom: 1rem;
+  font-size: 1.7rem;
 }
 #home .text p {
   margin-bottom: 1rem;
@@ -327,7 +328,7 @@ opacity: 1;
 }
 .card{
   padding: 3.7rem 2rem;
-  box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.08);
+  box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.438);
   border-bottom: 0.25rem solid var(--base-color);
   border-radius: 0.25rem .25rem 0 0;
   text-align: center;
@@ -363,8 +364,9 @@ opacity: 1;
 
 
 #testimonials blockquote{
+  margin-bottom: 20px;
   padding: 2rem;
-  box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.08);
+  box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.185);
   border-radius: 0.25rem;
 }
 
